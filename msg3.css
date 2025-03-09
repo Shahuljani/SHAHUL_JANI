@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    img{
+        width:450px;
+        height:450px;
+    }
+    button{
+        padding:20px 20px;
+        background-color:bisque;
+        color:red;
+        border-radius:50%;
+        border-color:gold;
+    }
+}

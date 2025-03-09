@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    h2{
+        text-shadow:2px 2px red;
+        color:goldenrod;
+        font-size:40px;
+        font-family:arial;
+        background-color:bisque;
+    }
+    .content{
+        color:blue;
+        font-size:25px;
+        background-color:bisque;
+    }
+    letter{
+        border-radius:50px;
+        width:200px;
+        height:80px;
+        float:center;
+    }
+    img{
+        width:400px;
+        height:400px;
+    }
+}
